@@ -1,0 +1,17 @@
+{
+  "name": "Gefährdungsbeurteilung – OCHS Rohrleitungsbau",
+  "short_name": "Gefährdung",
+  "description": "Digitale Gefährdungsbeurteilung für die Baustelle (Polier/Bauleiter).",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#16467a",
+  "lang": "de",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
